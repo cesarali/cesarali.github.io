@@ -1,7 +1,7 @@
 ---
 title: "Transformer Nostalgia"
-excerpt: "Diagnostic Tools for Large Language Models<br/><img src='/images/repo_images/discrete_schrodinger_bridge.png'>"
+excerpt: "Diagnostic Tools for Large Language Models<br/><img src='/images/repo_images/llama_nostalgia.png' style='width:50%;'>"
 collection: portfolio
 ---
 
-LLama Stuff 
+We develop diagnostic tools for Large Language Models [link](https://github.com/cesarali/transformer_nostalgia)

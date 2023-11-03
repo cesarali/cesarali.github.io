@@ -2,7 +2,7 @@
 title: "Projects in Machine Learning and Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-winter-teaching-1
+permalink: /teaching/2020-summer-teaching-1
 venue: "University of Potsdam, Department of Mathematics"
 date: 2022-10-01
 location: "Potsdam, Germany"

@@ -1,7 +1,7 @@
 ---
 title: "Statistical Data Analysis"
 collection: teaching
-type: "Exercises Curse"
+type: "Undergraduate course"
 permalink: /teaching/2023-winter-teaching-1
 venue: "University of Potsdam, Department of Data Science"
 date: 2023-10-01
