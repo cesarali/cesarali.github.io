@@ -11,49 +11,65 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Physics Universidad Simón Bolívar, Venezuela. (2005–2010)
+* M.S. Simulation Science, RWTH Aachen, Germany. (2011 , 2014)
+* Ph.D in in Computer Science, magna cum laude, University of Bonn, Germany. (2014 , 2019)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Period (2022 , 2024):
+  * University of Potsdam
+  * Duties included:
+  * Supervisor: Sebastian Reich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Period (2019 , 2022):
+  * Fraunhofer IAIS
+  * Duties included:
+  * Supervisor Manfred Opper
+
+* Period (2014 , 2019):
+  * Fraunhofer IAIS
+  * Duties included:
+  * Supervisor: Christian Bauckhage
+
+Awards
+======
+Syngenta Crop Challenge in Analytics (First Place) , USA. 2019.
+Program on “Combining Expert Knowledge and Neural Networks to Model Environmental Stresses in Agriculture ”
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MongoBD
+* Torch
+* C++
+* C
+
+Languages
+======
+* Spanish
+* English
+* French
+* Germany
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
