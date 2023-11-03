@@ -23,8 +23,10 @@ First comes the flow:
 This defines a pushforward in the probability:
 
 \begin{equation}
-p_t(x)=\left[\phi_t\right]_{\#} p_0(x)=p_0\left(\phi^{-1}(x)\right)\left|\operatorname{det} \nabla_x \phi_t^{-1}(x)\right|
+p_t(x)=\left[\phi_t\right]
 \end{equation}
+
+# _{\#} p_0(x)=p_0\left(\phi^{-1}(x)\right)\left|\operatorname{det} \nabla_x \phi_t^{-1}(x)\right|
 
 This is related to the Wasserstein Distance:
 
