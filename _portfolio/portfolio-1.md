@@ -7,4 +7,4 @@ collection: portfolio
 Generative Models based on conditional flow matching methodology, we however
 focus on continuos time markov chains.
 
-[Repo Link] https://github.com/cesarali/conditional_rate_matching
+[Repo Link] (https://github.com/cesarali/conditional_rate_matching)
