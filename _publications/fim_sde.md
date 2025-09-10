@@ -6,7 +6,7 @@ excerpt: 'In context learning for SDE'
 date: 2025-02-26
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2502.19049'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Seifner, P., Cvejoski, K., Berghaus, D., Ojeda, C., & Sanchez, R. J. (2025). Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation. arXiv preprint arXiv:2502.19049.'
 ---
 
 Stochastic differential equations (SDEs) describe dynamical systems where de-

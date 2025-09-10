@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : Maxwell Thermostat
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "César Ali Ojeda Marin"
 description              : &description "personal description"
 url                      : https://cesarali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Post-Doc at Uni Potsdam"
   location         : "Berlin"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : _-oU1lEAAAAJ&hl
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   dblp             : "https://dblp.org/pid/167/6031.html"
   linkedin         : cesaraliojeda
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
