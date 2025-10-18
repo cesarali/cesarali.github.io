@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at the University of Potsdam in the Department of Applied Mathematics, where I also serve as AI Advisor for the PharMetrX program, an interdisciplinary initiative at the interface of pharmacometrics and computational disease modeling. Previously, I worked as a Postdoctoral Researcher at the Technical University of Berlin with the group of Prof. Dr. Manfred Opper, and before that as a Doctoral Researcher at Fraunhofer IAIS.
+I am a Postdoctoral Researcher at the University of Potsdam in the Department of Applied Mathematics, where I also serve as AI Advisor for the PharMetrX Graduate Research Training Program: Pharmacometrics & Computational Disease Modelling, under Wilhelm Huisinga, Professor of Mathematical Modelling & Systems Biology. Previously, I worked as a Postdoctoral Researcher at the Technical University of Berlin with the group of Prof. Dr. Manfred Opper.
 
 My research goal is to advance machine learning methods that can meaningfully impact the natural sciences and human health. I am particularly fascinated by the interface between statistical inference, stochastic processes, and machine learning. My current work develops foundation models for stochastic dynamics, including Markov jump processes and stochastic differential equations, with applications ranging from molecular simulations and high-energy physics to pharmacokinetics and drug development.
 
